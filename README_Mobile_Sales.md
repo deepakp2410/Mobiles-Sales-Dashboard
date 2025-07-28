@@ -62,7 +62,7 @@ In a data-driven market, understanding where, what, and how your products are pe
 ## 🔗 Connect With Me
 
 📍 GitHub: [DeepakP2410](https://github.com/deepakp2410)  
-📍 LinkedIn: [linkedin.com/in/deepakp2410](https://www.linkedin.com/in/deepakp2410)  
+📍 LinkedIn: [linkedin.com/in/deepakp2410](https://www.linkedin.com/in/deepakpatil-23772b252/)  
 📍 Credly: [IBM Certifications](https://www.credly.com/users/deepak-patil.2e6a9403)
 
 If you find this project helpful or inspiring, feel free to star ⭐ this repo or reach out for collaboration!
